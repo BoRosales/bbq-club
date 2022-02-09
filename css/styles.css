@@ -31,6 +31,36 @@ body {
 }
 
 
+/* FEATURE SECTION STYLE */
+
+#features {
+    font-family: 'Montserrat-Bold', sans-serif;
+    padding: 7% 15%;
+}
+
+.feature-container {
+    padding: 5%;
+    text-align: center;
+}
+
+.feature-header {
+    font-size: 1.5rem;
+}
+
+.feature-subHeader {
+    color: #8F8F8F;
+}
+
+.icon {
+    color: #EF8172;
+    padding-bottom: .5rem;
+}
+
+.icon:hover {
+    color: #FF4C68;
+}
+
+
 /* NAVBAR STYLES */
 
 .navbar {
