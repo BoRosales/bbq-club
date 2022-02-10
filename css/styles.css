@@ -66,11 +66,14 @@ body {
 #testimonials {
     background-color: #EF8172;
     color: white;
-    padding: 7% 15%;
     text-align: center;
 }
 
-.testimonials-header {
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.testimonial-header {
     font-family: 'Montserrat-Bold', sans-serif;
     font-size: 3rem;
     line-height: 1.5;
