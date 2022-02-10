@@ -121,6 +121,18 @@ body {
 }
 
 
+/* PRICING SECTION STYLES */
+
+#pricing {
+    padding: 6.25rem;
+    text-align: center;
+}
+
+.pricing-col {
+    padding: 3% 2%;
+}
+
+
 /* IMG STYLES */
 
 .title-img {
