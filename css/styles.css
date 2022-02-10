@@ -5,7 +5,7 @@ body {
 }
 
 .container-fluid {
-    padding: 3% 15%;
+    padding: 3% 15% 7%;
 }
 
 .col-lg-6 {
@@ -30,12 +30,26 @@ body {
     line-height: 1.5;
 }
 
+.title-img {
+    position: absolute;
+    transform: rotate(25deg);
+    width: 55%;
+}
+
+.img-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
 
 /* FEATURE SECTION STYLE */
 
 #features {
+    background-color: white;
     font-family: 'Montserrat-Bold', sans-serif;
     padding: 7% 15%;
+    position: relative;
 }
 
 .feature-container {
@@ -130,14 +144,6 @@ body {
 
 .pricing-col {
     padding: 3% 2%;
-}
-
-
-/* IMG STYLES */
-
-.title-img {
-    width: 60%;
-    transform: rotate(25deg);
 }
 
 
