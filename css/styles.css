@@ -160,6 +160,27 @@ body {
 }
 
 
+/* CTA SECTION STYLES */
+
+#cta {
+    background-color: #FF4C68;
+    font-family: "Montserrat", sans-serif;
+    padding: 3% 7%;
+    text-align: center;
+}
+
+.cta-header {
+    color: white;
+    font-family: "Montserrat-Bold", sans-serif;
+    font-size: 3rem;
+    padding-top: 2rem;
+}
+
+.cta-button {
+    margin: 5% 3% 3% 0
+}
+
+
 /* DOWNLOAD BUTTON STYLES */
 
 .download-button {
