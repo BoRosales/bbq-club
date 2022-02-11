@@ -36,6 +36,19 @@ body {
     width: 55%;
 }
 
+
+/* At a width of 1028px or lower, the bottom will happen to make site responsive */
+
+@media (max-width: 1028px) {
+    .title-img {
+        position: static;
+        transform: rotate(0deg);
+    }
+    #title {
+        text-align: center;
+    }
+}
+
 .img-container {
     position: relative;
     display: flex;
