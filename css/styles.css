@@ -19,9 +19,6 @@ body {
     background-color: #FF4C68;
 }
 
-
-/* HEADER STYLES */
-
 .title-header {
     color: white;
     font-family: 'Montserrat-Black', sans-serif;
@@ -56,7 +53,7 @@ body {
 }
 
 
-/* FEATURE SECTION STYLE */
+/* FEATURES SECTION STYLE */
 
 #features {
     background-color: white;
@@ -165,14 +162,15 @@ body {
 #cta {
     background-color: #FF4C68;
     font-family: "Montserrat", sans-serif;
-    padding: 3% 7%;
+    padding: 7% 15%;
     text-align: center;
 }
 
 .cta-header {
     color: white;
     font-family: "Montserrat-Bold", sans-serif;
-    font-size: 3rem;
+    font-size: 3.5rem;
+    line-height: 1.5;
     padding-top: 2rem;
 }
 
@@ -185,7 +183,7 @@ body {
 
 #footer {
     background-color: white;
-    padding: 2% 2% 2% 2%;
+    padding: 7% 15%;
     text-align: center;
 }
 
