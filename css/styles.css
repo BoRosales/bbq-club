@@ -181,6 +181,23 @@ body {
 }
 
 
+/* FOOTER SECTION STYLES */
+
+#footer {
+    background-color: white;
+    padding: 2% 2% 2% 2%;
+    text-align: center;
+}
+
+.footer-icon {
+    padding: 1% .5%;
+}
+
+.cta-copyright {
+    color: #8F8F8F;
+}
+
+
 /* DOWNLOAD BUTTON STYLES */
 
 .download-button {
